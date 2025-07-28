@@ -53,12 +53,6 @@ The network is divided into **two main branches**:
 
 ---
 
-## 📸 Screenshot of the Topology
-
-![Network Topology](Network/Screenshot.png)
-
----
-
 ## 📂 Files Included
 
 - `.pkt` file (Packet Tracer project)
