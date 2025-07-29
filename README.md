@@ -53,10 +53,6 @@ The network is divided into **two main branches**:
 
 ---
 
-## 🔍 Preview
-![Screenshot](Network/Screenshot .png)
-
----
 
 ## 📂 Files Included
 
